@@ -6,10 +6,11 @@
 
 *Building systems where trust can be verified, not simply assumed.*
 
-<br>
-![Profile Views](https://komarev.com/ghpvc/?username=Sangram-Dhembare&style=flat-square&color=6C63FF)
-[![GitHub followers](https://img.shields.io/github/followers/Sangram-Dhembare?style=flat&color=0EA5A4&label=FOLLOWERS)](https://github.com/Sangram-Dhembare?tab=followers)
-[![Focus](https://img.shields.io/badge/FOCUS-Blockchain%20%26%20Cryptography-6C63FF?style=flat)](#)
+<img src="https://komarev.com/ghpvc/?username=Sangram-Dhembare&amp;style=flat-square&amp;color=6C63FF&amp;label=PROFILE+VIEWS" alt="Profile Views" />
+
+<img src="https://img.shields.io/github/followers/Sangram-Dhembare?style=flat&amp;color=0EA5A4&amp;label=FOLLOWERS" alt="GitHub Followers" />
+
+<img src="https://img.shields.io/badge/FOCUS-Blockchain%20%26%20Cryptography-6C63FF?style=flat" alt="Blockchain and Cryptography" />
 
 </div>
 
