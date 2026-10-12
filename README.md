@@ -7,8 +7,6 @@
 *Building systems where trust can be verified, not simply assumed.*
 
 <br>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Sangram-Dhembare&style=flat&color=6C63FF&label=PROFILE%20VIEWS)](https://github.com/Sangram-Dhembare)
 [![GitHub followers](https://img.shields.io/github/followers/Sangram-Dhembare?style=flat&color=0EA5A4&label=FOLLOWERS)](https://github.com/Sangram-Dhembare?tab=followers)
 [![Focus](https://img.shields.io/badge/FOCUS-Blockchain%20%26%20Cryptography-6C63FF?style=flat)](#)
 
