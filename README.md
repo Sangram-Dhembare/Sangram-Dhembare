@@ -20,7 +20,7 @@
 
 I'm a Computer Science graduate currently pursuing an **M.Sc. in Blockchain Technology at MIT World Peace University, Pune**. My interests lie at the intersection of blockchain infrastructure, applied cryptography, distributed systems, and data-driven software.
 
-I enjoy exploring how software can provide stronger guarantees around **privacy, integrity, and independent verification**. My flagship project, **CampusVote**, explores these ideas through a verifiable student-election workflow that combines anonymous authorization, encrypted tallying, threshold decryption, and a Solana-based audit layer.
+I enjoy exploring how software can provide stronger guarantees around **privacy, integrity, and independent verification**. My current projects range from an early Flutter foundation for **CampusVote** to a Solidity voting contract and a small Flutter build journal.
 
 - 🎓 **Education:** M.Sc. Blockchain Technology — MIT-WPU; B.Sc. Computer Science — SPPU
 - 🔐 **Current interests:** Applied cryptography, verifiable systems, smart contracts, and blockchain security
@@ -32,40 +32,57 @@ I enjoy exploring how software can provide stronger guarantees around **privacy,
 
 ## Featured Projects
 
-### 🔐 CampusVote — Verifiable Student Election System
+### 🔐 CampusVote — Student Election App Foundation
 
-*A project exploring ballot secrecy, one-person-one-vote enforcement, and public auditability.*
+*An early Flutter foundation for a future verifiable student-election system.*
 
-**Technologies:** `Rust` `Solana` `Anchor` `PostgreSQL` `Flutter` `NFC`
+**Technologies:** `Flutter` `Dart` `SHA-256`
 
-CampusVote is designed around a supervised, in-person election workflow. It explores how cryptographic techniques and a public audit layer can help make election properties independently checkable.
+- Provides a launcher for election administration, check-in, voting-terminal, and trustee demo surfaces.
+- Parses and validates election configuration and hashes its canonical JSON representation with SHA-256.
+- The role destinations are placeholders; voter authentication, NFC, ballot encryption, vote submission, and Solana integration are not implemented.
 
-**Key engineering components**
-- **Anonymous authorization:** RSA blind-signed tokens separate voter eligibility from ballot identity.
-- **Encrypted tallying:** ElGamal homomorphic encryption and zero-knowledge proofs support verifiable encrypted ballots.
-- **Threshold decryption:** A 3-of-5 trustee arrangement distributes control over decryption of the aggregate tally.
-- **Public audit trail:** Election configuration hashes, nullifiers, and ballot-batch Merkle roots are anchored on Solana.
-- **Booth workflow:** Flutter booth apps, a Rust/Axum backend, PostgreSQL, and NFC student-card check-in.
-- **Resilience features:** Offline-first booths, Benaloh cast-or-spoil challenges, and a paper-slip fallback.
+> This is a prototype foundation, not a working or secure election system.
 
-> **Focus:** Designing a voting workflow where privacy and auditability are considered together.
-
-[**Explore the CampusVote repository →**](https://github.com/Sangram-Dhembare/CampusVote)
+[**Explore the DEVO repository →**](https://github.com/Sangram-Dhembare/DEVO)
 
 ---
 
-### 📈 Stock Price Trend Tracker & Financial Visualizer
+### 🗳️ Simple Voting — Solidity Practice Contract
 
-*A Python project for exploring market data and visualizing historical price movements.*
+*A beginner-friendly smart contract for learning basic on-chain voting.*
+
+**Technologies:** `Solidity` `Remix`
+
+- Sets a fixed candidate list at deployment and lets each wallet address vote once.
+- Emits an event for each vote and rejects invalid candidate numbers and repeat votes.
+- Votes and addresses are public, and a person can vote again using another address; this is not a private or Sybil-resistant election system.
+
+[**Explore the Solidity projects repository →**](https://github.com/Sangram-Dhembare/solidity-projects)
+
+---
+
+### 📓 Build Mumbai — Flutter Build Journal
+
+*A simple journal for recording small wins while building and learning.*
+
+**Technologies:** `Flutter` `Dart`
+
+- Records short build updates and shows progress toward a five-update milestone.
+- Uses local in-memory state; updates reset when the app restarts.
+- An independent community project, not an official ETHGlobal app.
+
+[**Explore the Build Mumbai repository →**](https://github.com/Sangram-Dhembare/build-mumbai)
+
+---
+
+### 📈 Stock Price Tracker
+
+*A Python project for visualizing historical market prices.*
 
 **Technologies:** `Python` `yfinance` `Matplotlib`
 
-- Fetches market data through `yfinance`.
-- Visualizes historical prices and trends with Matplotlib.
-- Includes user-input handling and data validation.
-- Builds a foundation for further experimentation with financial analytics and data-driven decision-making.
-
-[**Explore the repository →**](https://github.com/Sangram-Dhembare/stock-price-trend-tracker)
+[**Explore the repository →**](https://github.com/Sangram-Dhembare/Stock-Price-Tracker)
 
 ---
 
