@@ -2,10 +2,9 @@
 
 # Sangram Sunil Dhembare
 
-### Blockchain Technology · Applied Cryptography · Data & Software
+### Web3 Developer · Blockchain Technology · Flutter
 
-I’m a Computer Science graduate pursuing an **M.Sc. in Blockchain Technology at MIT-WPU, Pune**.
-I like building and exploring software at the intersection of blockchain, cryptography, and data.
+I’m a Computer Science graduate pursuing an **M.Sc. in Blockchain Technology at MIT-WPU, Pune**. I build with Flutter and explore how smart contracts and cryptography can shape useful Web3 applications.
 
 [![Email](https://img.shields.io/badge/Email-Get%20in%20touch-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sangramdhembare3005@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangram-dhembare/)
@@ -21,49 +20,51 @@ I like building and exploring software at the intersection of blockchain, crypto
 
 ## About
 
-My interests include blockchain infrastructure, smart contracts, applied cryptography, distributed systems, and data-driven applications. I enjoy learning by building—from Flutter prototypes and Solidity contracts to Python analysis and interactive Excel dashboards.
+My focus is Web3: smart contracts, blockchain application design, and the cryptographic ideas behind verifiable systems. I also build Flutter applications and use data tools to investigate problems from different angles.
 
 - 🎓 **M.Sc. Blockchain Technology** — MIT World Peace University, Pune · 2026–2028
 - 🎓 **B.Sc. Computer Science** — Savitribai Phule Pune University · 2022–2025
 - 📍 **Pune, Maharashtra, India**
 - 🌱 Currently exploring blockchain application development and privacy-preserving systems
 
-## Selected Work
+## Web3 & Blockchain
 
 ### [CampusVote · DEVO](https://github.com/Sangram-Dhembare/DEVO)
-**Flutter · Dart · SHA-256**
+`Flutter` · `Dart` · `SHA-256`
 
-A Flutter foundation for a proposed student-election application. The app brings together entry points for election administration, check-in, a voting terminal, and trustee tools. Its election-configuration module parses and validates configuration data and hashes its canonical JSON representation with SHA-256.
+An exploration of verifiable student-election design, starting with the application layer. The Flutter app organizes four election roles—administration, check-in, voting, and trustee—while its configuration module validates election data and produces a canonical SHA-256 digest.
 
 ### [Solidity Projects](https://github.com/Sangram-Dhembare/solidity-projects)
-**Solidity · Remix**
+`Solidity` · `Remix`
 
-A growing collection of contract experiments, starting with two voting examples: `SimpleVoting`, a fixed-candidate election contract, and `PollManager`, which supports creator-managed polls with open and close controls.
+A hands-on collection of smart-contract experiments. It begins with two voting patterns: a fixed-candidate contract and a poll manager with creator-controlled voting windows.
+
+## More Selected Work
 
 ### [Parkinson’s Disease Detection](https://github.com/Sangram-Dhembare/Parkinsons-Disease-Detection)
-**Python · Pandas · NumPy · scikit-learn · Matplotlib · Seaborn**
+`Python` · `Pandas` · `scikit-learn`
 
-A data-science notebook exploring biomedical voice measurements from the UCI Parkinson’s dataset. The project covers exploratory analysis, feature preparation, Random Forest classification, and evaluation visualizations.
+A notebook study of voice measurements in the UCI Parkinson’s dataset, from exploratory analysis and feature preparation to Random Forest classification.
 
 ### [Build Mumbai](https://github.com/Sangram-Dhembare/build-mumbai)
-**Flutter · Dart**
+`Flutter` · `Dart`
 
-A lightweight build journal for capturing small wins while learning and shipping. Log updates, browse the build log, and follow progress toward a five-update milestone.
+A small build journal for capturing progress: record what you made, revisit updates, and track a five-entry milestone.
 
 ### [Stock Price Tracker](https://github.com/Sangram-Dhembare/Stock-Price-Tracker)
-**Python · yfinance · Pandas · Matplotlib**
+`Python` · `yfinance` · `Matplotlib`
 
-A notebook-based data visualization project that retrieves market data and plots price trends for stock tickers and cryptocurrency symbols.
+A data-visualization notebook that retrieves market history and charts price trends across stock and cryptocurrency symbols.
 
 ### [Personal Spending Tracker](https://github.com/Sangram-Dhembare/Excel_Project)
-**Excel · PivotTables · SUMIFS · INDEX/MATCH**
+`Excel` · `PivotTables` · `SUMIFS`
 
-An interactive budgeting workbook with transaction, setup, and dashboard sheets. It brings together budget summaries, filters, slicers, timelines, and conditional formatting over a synthetic transaction dataset.
+A budgeting workbook that turns transaction data into an interactive dashboard, with category budgets, timeline filters, and at-a-glance spending summaries.
 
 ### [Sentinal · Task Management System](https://github.com/Sangram-Dhembare/Final_Year_Project)
-**PHP · HTML · CSS · JavaScript · SQL**
+`PHP` · `JavaScript` · `SQL`
 
-My B.Sc. capstone: an adapted task-management web application with user registration and authentication, built primarily with PHP.
+My B.Sc. capstone: a PHP-led task-management web application with account registration and authentication.
 
 ## Toolkit
 
@@ -104,7 +105,7 @@ I volunteered with the **National Service Scheme (NSS)** from 2022 to 2024, part
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sangram-Dhembare&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=transparent&title_color=6C63FF&icon_color=0EA5A4)](https://github.com/Sangram-Dhembare)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sangram-Dhembare&show_icons=true&include_all_commits=true&hide=stars,prs,issues&hide_border=true&rank_icon=github&theme=transparent&title_color=6C63FF&icon_color=0EA5A4)](https://github.com/Sangram-Dhembare)
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangram-Dhembare&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=6C63FF)](https://github.com/Sangram-Dhembare?tab=repositories)
 [![Contribution streak](https://streak-stats.demolab.com?user=Sangram-Dhembare&theme=transparent&hide_border=true&ring=6C63FF&fire=0EA5A4&currStreakLabel=6C63FF)](https://github.com/Sangram-Dhembare)
 
