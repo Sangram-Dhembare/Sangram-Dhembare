@@ -8,7 +8,8 @@ I’m a Computer Science graduate pursuing an **M.Sc. in Blockchain Technology a
 I like building and exploring software at the intersection of blockchain, cryptography, and data.
 
 [![Email](https://img.shields.io/badge/Email-Get%20in%20touch-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sangramdhembare3005@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Sangram--Dhembare-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sangram-Dhembare)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangram-dhembare/)
+[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Sagittarius2966)
 
 <br>
 
@@ -99,12 +100,13 @@ Undergraduate coursework included Artificial Intelligence, Data Analytics, Java,
 
 I volunteered with the **National Service Scheme (NSS)** from 2022 to 2024, participating in community programs and supporting volunteer coordination. I’m also interested in the ways blockchain-powered business intelligence and AI-assisted analysis can make complex information more accessible.
 
-## GitHub
+## GitHub Activity
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sangram-Dhembare&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=6C63FF&icon_color=0EA5A4)](https://github.com/Sangram-Dhembare)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangram-Dhembare&layout=compact&hide_border=true&theme=transparent&title_color=6C63FF)](https://github.com/Sangram-Dhembare?tab=repositories)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sangram-Dhembare&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=transparent&title_color=6C63FF&icon_color=0EA5A4)](https://github.com/Sangram-Dhembare)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangram-Dhembare&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=6C63FF)](https://github.com/Sangram-Dhembare?tab=repositories)
+[![Contribution streak](https://streak-stats.demolab.com?user=Sangram-Dhembare&theme=transparent&hide_border=true&ring=6C63FF&fire=0EA5A4&currStreakLabel=6C63FF)](https://github.com/Sangram-Dhembare)
 
 <br>
 
