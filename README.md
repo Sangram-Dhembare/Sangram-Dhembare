@@ -12,7 +12,7 @@ I’m a Computer Science graduate pursuing an **M.Sc. in Blockchain Technology a
 
 <br>
 
-![Profile visitors](https://visitor-badge.laobi.icu/badge?page_id=Sangram-Dhembare.Sangram-Dhembare&left_color=gray&right_color=6C63FF)
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=Sangram-Dhembare.Sangram-Dhembare&left_color=gray&right_color=6C63FF&query_only=false)
 
 </div>
 
