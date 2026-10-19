@@ -97,20 +97,17 @@ Undergraduate coursework included Artificial Intelligence, Data Analytics, Java,
 - **Generative AI for Data-Driven Business Decision-Making** — IIM Mumbai
 - **MATLAB Programming and Its Applications in Electronics**
 
-## Outside the Editor
-
-I volunteered with the **National Service Scheme (NSS)** from 2022 to 2024, participating in community programs and supporting volunteer coordination. I’m also interested in the ways blockchain-powered business intelligence and AI-assisted analysis can make complex information more accessible.
-
-## GitHub Activity
+## Find me on GitHub
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sangram-Dhembare&show_icons=true&include_all_commits=true&hide=stars,prs,issues&hide_border=true&rank_icon=github&theme=transparent&title_color=6C63FF&icon_color=0EA5A4)](https://github.com/Sangram-Dhembare)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangram-Dhembare&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=6C63FF)](https://github.com/Sangram-Dhembare?tab=repositories)
-[![Contribution streak](https://streak-stats.demolab.com?user=Sangram-Dhembare&theme=transparent&hide_border=true&ring=6C63FF&fire=0EA5A4&currStreakLabel=6C63FF)](https://github.com/Sangram-Dhembare)
+[![GitHub followers](https://img.shields.io/github/followers/Sangram-Dhembare?style=flat-square&label=followers&color=0EA5A4)](https://github.com/Sangram-Dhembare?tab=followers)
+[![Stars across repositories](https://img.shields.io/github/stars/Sangram-Dhembare?affiliations=OWNER&style=flat-square&label=repository%20stars&color=6C63FF)](https://github.com/Sangram-Dhembare?tab=repositories)
+
+[![Browse repositories](https://img.shields.io/badge/Browse-my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sangram-Dhembare?tab=repositories)
 
 <br>
 
-*Curious by nature. Always learning, building, and refining.*
+*Building at the intersection of Web3, software, and cryptography.*
 
 </div>
