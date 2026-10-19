@@ -12,7 +12,7 @@ I’m a Computer Science graduate pursuing an **M.Sc. in Blockchain Technology a
 
 <br>
 
-![Profile views](https://komarev.com/ghpvc/?username=Sangram-Dhembare&style=flat-square&color=6C63FF&label=PROFILE+VIEWS)
+![Profile visitors](https://visitor-badge.laobi.icu/badge?page_id=Sangram-Dhembare.Sangram-Dhembare&left_color=gray&right_color=6C63FF)
 
 </div>
 
