@@ -2,15 +2,15 @@
 
 # Sangram Sunil Dhembare
 
-### Blockchain Technology • Applied Cryptography • Software Engineering
+### Blockchain Technology · Applied Cryptography · Software Engineering
 
-*Building systems where trust can be verified, not simply assumed.*
+*Curious about how software can make trust, privacy, and verification more tangible.*
 
-<img src="https://komarev.com/ghpvc/?username=Sangram-Dhembare&amp;style=flat-square&amp;color=6C63FF&amp;label=PROFILE+VIEWS" alt="Profile Views" />
-
-<img src="https://img.shields.io/github/followers/Sangram-Dhembare?style=flat&amp;color=0EA5A4&amp;label=FOLLOWERS" alt="GitHub Followers" />
-
-<img src="https://img.shields.io/badge/FOCUS-Blockchain%20%26%20Cryptography-6C63FF?style=flat" alt="Blockchain and Cryptography" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Sangram-Dhembare&amp;style=flat-square&amp;color=6C63FF&amp;label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Sangram-Dhembare?style=flat&amp;color=0EA5A4&amp;label=FOLLOWERS" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/FOCUS-Blockchain%20%26%20Cryptography-6C63FF?style=flat" alt="Focus: blockchain and cryptography" />
+</p>
 
 </div>
 
@@ -18,172 +18,135 @@
 
 ## About Me
 
-I'm a Computer Science graduate currently pursuing an **M.Sc. in Blockchain Technology at MIT World Peace University, Pune**. My interests lie at the intersection of blockchain infrastructure, applied cryptography, distributed systems, and data-driven software.
+I’m a Computer Science graduate pursuing an **M.Sc. in Blockchain Technology at MIT World Peace University (MIT-WPU), Pune**. I’m interested in blockchain infrastructure, applied cryptography, distributed systems, and data-driven software—and in understanding both the capabilities and limitations of the systems I build.
 
-I enjoy exploring how software can provide stronger guarantees around **privacy, integrity, and independent verification**. My current projects range from an early Flutter foundation for **CampusVote** to a Solidity voting contract and a small Flutter build journal.
-
-- 🎓 **Education:** M.Sc. Blockchain Technology — MIT-WPU; B.Sc. Computer Science — SPPU
-- 🔐 **Current interests:** Applied cryptography, verifiable systems, smart contracts, and blockchain security
-- 🧰 **Languages:** Python, Java, C, SQL, PHP, Dart, and basic Rust
+- 🎓 **Education:** M.Sc. Blockchain Technology, MIT-WPU (2026–2028); B.Sc. Computer Science, Savitribai Phule Pune University (2022–2025)
+- 🔎 **Exploring:** Smart contracts, verifiable systems, privacy-preserving design, and blockchain applications
 - 📍 **Based in:** Pune, Maharashtra, India
-- 🌱 **Currently learning:** Blockchain application development and privacy-preserving system design
-
----
+- 🌱 **Learning:** Blockchain application development and privacy-preserving system design
 
 ## Featured Projects
 
-### 🔐 CampusVote — Student Election App Foundation
+### 🔐 [CampusVote (DEVO)](https://github.com/Sangram-Dhembare/DEVO)
 
-*An early Flutter foundation for a future verifiable student-election system.*
+An early Flutter foundation for a proposed student-election system.
 
-**Technologies:** `Flutter` `Dart` `SHA-256`
+**Built with:** `Flutter` · `Dart` · `SHA-256`
 
-- Provides a launcher for election administration, check-in, voting-terminal, and trustee demo surfaces.
-- Parses and validates election configuration and hashes its canonical JSON representation with SHA-256.
-- The role destinations are placeholders; voter authentication, NFC, ballot encryption, vote submission, and Solana integration are not implemented.
+- Includes a launcher for four planned roles: election administration, check-in, voting terminal, and trustee.
+- Parses and validates election configuration, then hashes its canonical JSON representation with SHA-256.
+- The role destinations are demo placeholders. Voter authentication, NFC check-in, ballot encryption, vote submission, and Solana integration are not implemented.
 
-> This is a prototype foundation, not a working or secure election system.
+> **Prototype only:** this is not a working or secure election system and must not be used to run an election.
 
-[**Explore the DEVO repository →**](https://github.com/Sangram-Dhembare/DEVO)
+### 🗳️ [Solidity Voting Examples](https://github.com/Sangram-Dhembare/solidity-projects)
 
----
+Two learning contracts that demonstrate basic on-chain voting patterns.
 
-### 🗳️ Simple Voting — Solidity Practice Contract
+**Built with:** `Solidity` · `Remix`
 
-*A beginner-friendly smart contract for learning basic on-chain voting.*
+- `SimpleVoting` deploys with a fixed candidate list and permits one vote per wallet address.
+- `PollManager` lets poll creators create polls and open or close voting; polls can be reopened, but an address can vote only once per poll.
+- Both contracts emit vote events and reject invalid candidate indexes and repeat votes.
 
-**Technologies:** `Solidity` `Remix`
+> Votes and wallet addresses are public on-chain. There is no identity verification or Sybil resistance; a person can use multiple addresses. These are practice contracts, not private or secure election systems.
 
-- Sets a fixed candidate list at deployment and lets each wallet address vote once.
-- Emits an event for each vote and rejects invalid candidate numbers and repeat votes.
-- Votes and addresses are public, and a person can vote again using another address; this is not a private or Sybil-resistant election system.
+### 📊 [Parkinson’s Disease Detection](https://github.com/Sangram-Dhembare/Parkinsons-Disease-Detection)
 
-[**Explore the Solidity projects repository →**](https://github.com/Sangram-Dhembare/solidity-projects)
+A data-science notebook exploring classification from biomedical voice measurements in the UCI Parkinson’s dataset.
 
----
+**Built with:** `Python` · `Pandas` · `NumPy` · `scikit-learn` · `Matplotlib` · `Seaborn`
 
-### 📓 Build Mumbai — Flutter Build Journal
+- Explores voice features such as frequency and amplitude variation, prepares the data, and trains a Random Forest classifier.
+- Includes visual analysis and confusion-matrix-based evaluation.
 
-*A simple journal for recording small wins while building and learning.*
+> This is an educational project, not a clinically validated diagnostic tool. The repository does not establish clinical performance.
 
-**Technologies:** `Flutter` `Dart`
+### 📓 [Build Mumbai](https://github.com/Sangram-Dhembare/build-mumbai)
 
-- Records short build updates and shows progress toward a five-update milestone.
-- Uses local in-memory state; updates reset when the app restarts.
-- An independent community project, not an official ETHGlobal app.
+A small Flutter journal for recording build-and-learn milestones.
 
-[**Explore the Build Mumbai repository →**](https://github.com/Sangram-Dhembare/build-mumbai)
+**Built with:** `Flutter` · `Dart`
 
----
+- Saves short updates in a build log and tracks progress toward five updates.
+- Uses in-memory state, so entries reset when the app restarts.
+- An independent community project—not an official ETHGlobal app.
 
-### 📈 Stock Price Tracker
+### 📈 [Stock Price Tracker](https://github.com/Sangram-Dhembare/Stock-Price-Tracker)
 
-*A Python project for visualizing historical market prices.*
+A Python notebook for retrieving market data with `yfinance` and visualizing price trends.
 
-**Technologies:** `Python` `yfinance` `Matplotlib`
+**Built with:** `Python` · `yfinance` · `Pandas` · `Matplotlib`
 
-[**Explore the repository →**](https://github.com/Sangram-Dhembare/Stock-Price-Tracker)
+- Supports stock tickers and cryptocurrency symbols and plots price history.
+- Intended as a data-handling and visualization project; market data availability and timing depend on the data provider.
 
----
+### 📑 [Personal Spending Tracker](https://github.com/Sangram-Dhembare/Excel_Project)
+
+An Excel budgeting dashboard built around a synthetic dataset of more than 1,000 transactions.
+
+**Built with:** `Microsoft Excel` · `PivotTables` · `SUMIFS` · `INDEX/MATCH`
+
+- Organizes transactions, category budgets, and dashboard summaries across `Transactions`, `Setup`, and `Dashboard` sheets.
+- Uses validation, slicers, timelines, and conditional formatting to support filtering and budget review.
+
+## More Projects
+
+- **[Sentinal — Task Management System](https://github.com/Sangram-Dhembare/Final_Year_Project):** B.Sc. capstone web application built primarily with PHP, with HTML, CSS, JavaScript, and SQL. The adapted task-management project includes registration and authentication; the rich-text editor’s full functionality requires a TinyMCE account.
 
 ## Technical Skills
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| Area | Technologies and topics |
+| --- | --- |
+| **Programming** | Python, Java, C, SQL, PHP, Dart, Solidity; Rust (beginner) |
+| **Application development** | Flutter, HTML, CSS, JavaScript, PostgreSQL, Git |
+| **Data and analysis** | Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, `yfinance`, Excel, MATLAB |
+| **Blockchain learning** | Solana, Anchor, Algorand, smart-contract development |
+| **Cryptography topics** | RSA blind signatures, ElGamal encryption, zero-knowledge proofs, Merkle trees |
 
-### 💻 Programming
-- Python
-- Java
-- C
-- SQL
-- PHP
-- Dart
-- Rust *(basic)*
-
-### 📊 Data & Analysis
-- Pandas and NumPy
-- Matplotlib
-- yfinance
-- Excel
-- MATLAB
-- Data visualization
-
-</td>
-<td width="50%" valign="top">
-
-### ⛓️ Blockchain & Cryptography
-- Solana and Anchor
-- Algorand
-- Smart-contract development concepts
-- RSA blind signatures
-- ElGamal encryption
-- Zero-knowledge proofs
-- Merkle trees
-
-### 🛠️ Application Development & Tools
-- Flutter
-- PostgreSQL
-- HTML, CSS, JavaScript
-- Git
-
-</td>
-</tr>
-</table>
-
----
+The blockchain and cryptography topics above reflect areas of study and exploration; they are not claims of production or security-audit experience.
 
 ## Education
 
 **MIT World Peace University (MIT-WPU), Pune**  
 *M.Sc. in Blockchain Technology* · 2026–2028
 
-Areas of study include blockchain architecture, smart-contract programming, cryptography, distributed-ledger systems, data structures, databases, and related computing disciplines.
-
 **MIT ACSC, Alandi — Savitribai Phule Pune University**  
 *B.Sc. in Computer Science* · 2022–2025  
 **CGPA:** 7.33/10
 
-Relevant coursework included Artificial Intelligence, Data Analytics, Java, Blockchain, Computer Networks, Operating Systems, Python, and MATLAB.
-
----
+Relevant undergraduate coursework included Artificial Intelligence, Data Analytics, Java, Blockchain, Computer Networks, Operating Systems, Python, and MATLAB.
 
 ## Certifications & Continuous Learning
 
-- **Algorand Blockchain Application Developer** — In progress; FutureSkills Prime, NASSCOM, and Algorand Bharat
+- **Algorand Blockchain Application Developer** — In progress · FutureSkills Prime, NASSCOM, and Algorand Bharat
 - **Generative AI for Data-Driven Business Decision-Making** — IIM Mumbai
 - **MATLAB Programming and Its Applications in Electronics**
 
----
-
 ## Beyond Technology
 
-As an NSS volunteer from 2022 to 2024, I participated in community programs and special events, supported volunteer coordination, and worked with others toward shared goals. These experiences strengthened my appreciation for teamwork, communication, and responsible execution.
+As an NSS volunteer from 2022 to 2024, I took part in community programs and special events and supported volunteer coordination. Those experiences strengthened my appreciation for teamwork, communication, and responsible execution.
 
-I'm also interested in blockchain-powered business intelligence, AI-driven market analysis, and the ways technology can make complex information more transparent and useful.
-
----
+I’m also interested in blockchain-powered business intelligence, AI-assisted market analysis, and making complex information more transparent and useful.
 
 ## GitHub Activity
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sangram-Dhembare&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=6C63FF&icon_color=0EA5A4)](https://github.com/Sangram-Dhembare)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sangram-Dhembare&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=6C63FF&icon_color=0EA5A4)](https://github.com/Sangram-Dhembare)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangram-Dhembare&layout=compact&hide_border=true&theme=transparent&title_color=6C63FF)](https://github.com/Sangram-Dhembare?tab=repositories)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangram-Dhembare&layout=compact&hide_border=true&theme=transparent&title_color=6C63FF)](https://github.com/Sangram-Dhembare?tab=repositories)
 
 </div>
 
----
+## Let’s Connect
 
-## Let's Connect
-
-I'm interested in connecting with people working on blockchain infrastructure, applied cryptography, open-source software, and data-driven applications.
+I’m glad to connect with people working on blockchain infrastructure, applied cryptography, open-source software, and data-driven applications.
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-Contact%20me-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sangramdhembare3005@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sangram-Dhembare)
 
 <br>
 
