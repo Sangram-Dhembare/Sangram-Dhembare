@@ -97,16 +97,11 @@ Undergraduate coursework included Artificial Intelligence, Data Analytics, Java,
 - **Generative AI for Data-Driven Business Decision-Making** — IIM Mumbai
 - **MATLAB Programming and Its Applications in Electronics**
 
-## Find me on GitHub
+## Languages I Use
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/Sangram-Dhembare?style=flat-square&label=followers&color=0EA5A4)](https://github.com/Sangram-Dhembare?tab=followers)
-[![Stars across repositories](https://img.shields.io/github/stars/Sangram-Dhembare?affiliations=OWNER&style=flat-square&label=repository%20stars&color=6C63FF)](https://github.com/Sangram-Dhembare?tab=repositories)
-
-[![Browse repositories](https://img.shields.io/badge/Browse-my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sangram-Dhembare?tab=repositories)
-
-<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangram-Dhembare&layout=pie&langs_count=8&hide_border=true&theme=transparent&title_color=6C63FF" alt="Pie chart of languages used across my public repositories" />
 
 *Building at the intersection of Web3, software, and cryptography.*
 
