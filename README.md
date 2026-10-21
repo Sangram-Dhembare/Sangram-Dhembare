@@ -32,39 +32,39 @@ My focus is Web3: smart contracts, blockchain application design, and the crypto
 ### [CampusVote · DEVO](https://github.com/Sangram-Dhembare/DEVO)
 `Flutter` · `Dart` · `SHA-256`
 
-An app-layer prototype for verifiable student-election design. Its Flutter app has four role workspaces, and its configuration module validates election data and produces a deterministic SHA-256 digest. No Rust source, backend, or on-chain app integration is implemented; ballot selections are local and are not submitted or saved.
+A Flutter prototype for student elections with four role-based workspaces. Its configuration module validates election data and creates a deterministic SHA-256 digest. Ballot selections stay local and aren’t submitted or saved. Rust, a backend, and on-chain app integration aren’t implemented.
 
 ### [Solidity Projects](https://github.com/Sangram-Dhembare/solidity-projects)
 `Solidity` · `Foundry`
 
-An educational Foundry project with fixed-candidate voting, creator-managed polls, and an election-config digest anchor. It has 34 passing tests and verified local Anvil deployment; contracts are unaudited and have not been publicly deployed.
+A Foundry project with fixed-candidate voting, creator-managed polls, and an election-config digest anchor. It has 34 passing tests and a verified local Anvil deployment; the contracts haven’t been audited or deployed publicly.
 
 ## More Selected Work
 
 ### [Parkinson’s Disease Detection](https://github.com/Sangram-Dhembare/Parkinsons-Disease-Detection)
 `Python` · `Pandas` · `scikit-learn`
 
-A notebook study of voice measurements in the UCI Parkinson’s dataset, from exploratory analysis and feature preparation to Random Forest classification.
+A notebook using the UCI Parkinson’s dataset to prepare voice measurements and train a Random Forest classifier.
 
 ### [Build Mumbai](https://github.com/Sangram-Dhembare/build-mumbai)
 `Flutter` · `Dart`
 
-A small build journal for capturing progress: record what you made, revisit updates, and track a five-entry milestone.
+A small build journal for logging updates and keeping a five-entry milestone list.
 
 ### [Stock Price Tracker](https://github.com/Sangram-Dhembare/Stock-Price-Tracker)
 `Python` · `yfinance` · `Matplotlib`
 
-A data-visualization notebook that retrieves market history and charts price trends across stock and cryptocurrency symbols.
+A notebook that fetches market history and charts price trends for stocks and cryptocurrencies.
 
 ### [Personal Spending Tracker](https://github.com/Sangram-Dhembare/Excel_Project)
 `Excel` · `PivotTables` · `SUMIFS`
 
-A budgeting workbook that turns transaction data into an interactive dashboard, with category budgets, timeline filters, and at-a-glance spending summaries.
+An Excel workbook with category budgets and timeline filters, plus a dashboard for reviewing spending.
 
 ### [Sentinal · Task Management System](https://github.com/Sangram-Dhembare/Final_Year_Project)
 `PHP` · `JavaScript` · `SQL`
 
-My B.Sc. capstone: a PHP-led task-management web application with account registration and authentication.
+My B.Sc. capstone, a PHP task-management app with account registration and login.
 
 ## Toolkit
 
