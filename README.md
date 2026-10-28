@@ -34,10 +34,17 @@ My focus is Web3: smart contracts, blockchain application design, and the crypto
 
 A Flutter prototype for student elections with four role-based workspaces. Its configuration module validates election data and creates a deterministic SHA-256 digest. Ballot selections stay local and aren’t submitted or saved. Rust, a backend, and on-chain app integration aren’t implemented.
 
+The current roadmap also records an unresolved specification question: the voter-roll Merkle tree format and construction rules still need to be defined.
+
 ### [Solidity Projects](https://github.com/Sangram-Dhembare/solidity-projects)
 `Solidity` · `Foundry`
 
-A Foundry project with fixed-candidate voting, creator-managed polls, and an election-config digest anchor. It has 34 passing tests and a verified local Anvil deployment; the contracts haven’t been audited or deployed publicly.
+A Foundry project with fixed-candidate voting, creator-managed polls, and an election-config digest anchor. The current suite has 41 passing tests, 100% line and branch coverage across the four contracts, and 128,000 invariant handler calls. No testnet or production deployment is published, and the contracts haven’t been audited.
+
+### [TrueTally](https://github.com/Sangram-Dhembare/algorad_truetally)
+`Algorand` · `Python` · `AlgoKit`
+
+A design-stage campus-voting project that sketches an Algorand-based flow using election-specific assets and atomic transaction groups. Contracts, deployment scripts, and the web client are not implemented. Public-ledger activity may reveal wallet addresses and vote transactions, so this is not for real elections.
 
 ## More Selected Work
 
