@@ -122,6 +122,6 @@ I volunteered with the National Service Scheme (NSS) from 2022 to 2024. I took p
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sangram-Dhembare&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=6C63FF&icon_color=0EA5A4)](https://github.com/Sangram-Dhembare)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sangram-Dhembare&amp;theme=github" alt="GitHub activity summary for Sangram Dhembare" />
 
 </div>
