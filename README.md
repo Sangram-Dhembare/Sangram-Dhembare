@@ -113,3 +113,15 @@ Undergraduate coursework included Artificial Intelligence, Data Analytics, Java,
 *Building at the intersection of Web3, software, and cryptography.*
 
 </div>
+
+## Community experience
+
+I volunteered with the National Service Scheme (NSS) from 2022 to 2024. I took part in community programs and special events, and helped coordinate volunteers.
+
+## GitHub activity
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sangram-Dhembare&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=6C63FF&icon_color=0EA5A4)](https://github.com/Sangram-Dhembare)
+
+</div>
