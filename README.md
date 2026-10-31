@@ -29,6 +29,11 @@ My focus is Web3: smart contracts, blockchain application design, and the crypto
 
 ## Web3 & Blockchain
 
+### [VeriAnchor](https://github.com/Sangram-Dhembare/Varianchor)
+`Python` · `FastAPI` · `React` · `TypeScript` · `Solidity` · `Hardhat`
+
+A local-first batch auditing app that stores JSON records in SQLite, signs Keccak-256 Merkle roots with a local ECDSA key, and lets you inspect and verify record proofs. An optional local Hardhat contract anchors roots and verifies proofs on-chain. Built as a learning and development project; it is not independently audited or production-ready.
+
 ### [CampusVote · DEVO](https://github.com/Sangram-Dhembare/DEVO)
 `Flutter` · `Dart` · `SHA-256`
 
